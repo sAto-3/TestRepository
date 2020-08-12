@@ -1,3 +1,6 @@
 print('Hello World')
-a = pow(810, 6)
-print(a,a%6)
+print('Hell World')
+# 48262は遮二無二(しゃにむに)
+a = pow(8101919931, 48262)
+print(a,a%48262)
+print('ぶりんと ('💩')')
